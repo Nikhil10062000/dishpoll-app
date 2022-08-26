@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dishpoll-app/static/css/main.c1310a83.css",
+    "main.js": "/dishpoll-app/static/js/main.13053c2a.js",
+    "static/js/787.e902d615.chunk.js": "/dishpoll-app/static/js/787.e902d615.chunk.js",
+    "index.html": "/dishpoll-app/index.html",
+    "main.c1310a83.css.map": "/dishpoll-app/static/css/main.c1310a83.css.map",
+    "main.13053c2a.js.map": "/dishpoll-app/static/js/main.13053c2a.js.map",
+    "787.e902d615.chunk.js.map": "/dishpoll-app/static/js/787.e902d615.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1310a83.css",
+    "static/js/main.13053c2a.js"
+  ]
+}
